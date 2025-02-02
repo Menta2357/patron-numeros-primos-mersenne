@@ -1,0 +1,1 @@
+# patron-numeros-primos-mersenne
